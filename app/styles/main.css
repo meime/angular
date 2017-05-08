@@ -1,0 +1,48 @@
+#homepage .swiper-container {
+  width: 100%;
+  height: 200px;
+}
+#homepage .swiper-container .swiper-wrapper {
+  font-size: 30px;
+  line-height: 100px;
+  text-align: center;
+}
+#homepage .list {
+  margin: 10px 0;
+}
+#list .swiper-container {
+  width: 100%;
+  height: 200px;
+}
+#list .swiper-container .swiper-wrapper {
+  font-size: 30px;
+  line-height: 100px;
+  text-align: center;
+}
+#list .list {
+  margin: 10px 0;
+}
+#echart .swiper-container {
+  width: 100%;
+  height: 200px;
+}
+#echart .swiper-container .swiper-wrapper {
+  font-size: 30px;
+  line-height: 100px;
+  text-align: center;
+}
+#echart .list {
+  margin: 10px 0;
+}
+#mine .swiper-container {
+  width: 100%;
+  height: 200px;
+}
+#mine .swiper-container .swiper-wrapper {
+  font-size: 30px;
+  line-height: 100px;
+  text-align: center;
+}
+#mine .list {
+  margin: 10px 0;
+}
